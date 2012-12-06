@@ -6,3 +6,6 @@
 *.ear
 HIDDriver/bin
 HIDDriver/gen
+Android/HIDDriver/.settings
+Android/HIDDriver/bin
+Android/HIDDriver/gen
