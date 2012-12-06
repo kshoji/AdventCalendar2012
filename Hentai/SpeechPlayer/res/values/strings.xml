@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeechClock</string>
+    <string name="text_to_speech">App/Text-To-Speech</string>
+    <string name="speect_text">変態</string>
+</resources>
