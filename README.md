@@ -3,6 +3,8 @@ AdventCalendar2012
 
 Advent Calendar 2012
 
+// nice project
+
 License: WTFPL
 
 Check out any branches..
